@@ -612,7 +612,7 @@ i {
     color: var(--bg);
 }
 
-/* FOOTER */
+/* FOOTER +++++ ROBOT Font */
 
 #footer {
     min-height: 10vh;
@@ -624,8 +624,9 @@ i {
     overflow: hidden;
     background-color: var(--bg);
     color: var(--text);
+    font-family: 'Roboto', sans-serif;
 }
 
-#footer p{
+#footer p {
     color: var(--desT);
 }
